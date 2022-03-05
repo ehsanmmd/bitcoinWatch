@@ -1,0 +1,10 @@
+.main-area {
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: fit-content;
+  margin-top: 1rem;
+  border-radius: 5px;
+  overflow: auto;
+}

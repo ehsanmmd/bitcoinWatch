@@ -1,0 +1,13 @@
+.main-header {
+    position: relative;
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.main-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    color: white;
+}
